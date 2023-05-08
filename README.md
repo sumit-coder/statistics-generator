@@ -1,6 +1,7 @@
-# statistics_generator
+# Statistics Generator
 
-A new Flutter project.
+### Screenshots:
+![](/screenshots/screenshot.png)
 
 ## Getting Started
 
