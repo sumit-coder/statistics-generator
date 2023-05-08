@@ -1,7 +1,8 @@
 # Statistics Generator
 
 ### Screenshots:
-![](/screenshots/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/55745378/236837566-19821548-d020-4384-8125-47c33040f746.png)
+
 
 ## Getting Started
 
